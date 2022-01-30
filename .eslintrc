@@ -23,6 +23,9 @@
         "object-curly-spacing": [2, "never"],
         "semi": [2, "never"],
         "comma-dangle": "off",
-        "complexity": ["error", { "max": 4 }]
+        "complexity": ["error", { "max": 4 }],
+        "space-before-function-paren": ["error", "always"],
+        "space-before-blocks": ["error", "always"],
+        "eol-last": ["error", "always"]
     }
 }
